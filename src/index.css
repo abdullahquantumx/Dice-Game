@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Martian+Mono:wght@300&display=swap');
+*{
+  margin: 0;
+}
+body{
+  /* font-family: 'Martian Mono', monospace; */
+  font-family: 'Cabin', sans-serif;
+}
